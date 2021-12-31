@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // replies
         case "clear":
           clearInput();
-          openlink("https://prabhigupta.github.io/terminal/index.html");
+          openlink("https://Ad0lphus.github.io/terminal/index.html");
         case "prabith":
         case "4d0lphu5":
           clearInput();
@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
           break;
         case "help open":
           clearInput();
-          addTextToResults("<b>Open</b> + website URL to open it in the browser (ex. open prabhigupta.github.io)");
+          addTextToResults("<b>Open</b> + website URL to open it in the browser (ex. open Ad0lphus.github.io)");
           break;
         case "help Google":
           clearInput();
@@ -192,22 +192,22 @@ document.addEventListener('DOMContentLoaded', function() {
         case "view home":
           clearInput();
           addTextToResults("Okay lets move to home page.");
-          openLinkInNewWindow('https://prabhigupta.github.io');
+          openLinkInNewWindow('https://Ad0lphus.github.io');
         break;
         case "view personalweb":
           clearInput();
           addTextToResults("Okay lemme show you my personal Blog.");
-          openLinkInNewWindow('https://prabhigupta.github.io/CV/index.html');
+          openLinkInNewWindow('https://Ad0lphus.github.io/CV/index.html');
         break;
         case "view writingblog":
           clearInput();
           addTextToResults("Okay then, lets head over to my writing Blog.");
-          openLinkInNewWindow('https://prabhigupta.github.io/instaBlog/index.html');
+          openLinkInNewWindow('https://Ad0lphus.github.io/instaBlog/index.html');
         break;
         case "view certifications":
           clearInput();
           addTextToResults("Okay I'll show some of my certifications.");
-          openLinkInNewWindow('https://prabhigupta.github.io/CV/index.html#Certifications');
+          openLinkInNewWindow('https://Ad0lphus.github.io/CV/index.html#Certifications');
         break;
         case "what the":
         case "wtf":
